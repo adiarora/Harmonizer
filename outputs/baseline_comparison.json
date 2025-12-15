@@ -1,0 +1,20 @@
+{
+  "ai_summary": {
+    "total_notes": 16,
+    "range_violation_rate": 0.0,
+    "voice_crossing_rate": 0.0,
+    "parallel_fifth_rate": 0.0,
+    "parallel_octave_rate": 0.0,
+    "consonance_rate": 0.9166666666666666,
+    "avg_smoothness_score": 8.4
+  },
+  "baseline_summary": {
+    "total_notes": 16,
+    "range_violation_rate": 0.0,
+    "voice_crossing_rate": 0.0,
+    "parallel_fifth_rate": 0.9333333333333333,
+    "parallel_octave_rate": 0.9333333333333333,
+    "consonance_rate": 1.0,
+    "avg_smoothness_score": 8.133333333333333
+  }
+}

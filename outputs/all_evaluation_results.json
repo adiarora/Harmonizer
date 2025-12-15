@@ -1,0 +1,231 @@
+{
+  "simple_c_major": {
+    "range_violations": {
+      "T1": 0,
+      "T2": 0,
+      "Bari": 0,
+      "Bass": 0,
+      "total": 0
+    },
+    "voice_crossing": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_fifths": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_octaves": {
+      "count": 0,
+      "locations": []
+    },
+    "consonance_analysis": {
+      "consonance_rate": 0.8958333333333334,
+      "consonant_intervals": 86,
+      "total_intervals": 96,
+      "interval_distribution": {
+        "11": 7,
+        "8": 17,
+        "3": 23,
+        "9": 10,
+        "4": 1,
+        "7": 11,
+        "0": 20,
+        "5": 4,
+        "6": 2,
+        "10": 1
+      }
+    },
+    "voice_leading_smoothness": {
+      "avg_motion": 1.8333333333333333,
+      "avg_score": 8.166666666666666,
+      "total_leaps": 6,
+      "leap_rate": 0.1
+    },
+    "chord_completeness": {
+      "completeness_rate": 0.8125,
+      "complete_chords": 13,
+      "total_chords": 16
+    },
+    "summary": {
+      "total_notes": 16,
+      "range_violation_rate": 0.0,
+      "voice_crossing_rate": 0.0,
+      "parallel_fifth_rate": 0.0,
+      "parallel_octave_rate": 0.0,
+      "consonance_rate": 0.8958333333333334,
+      "avg_smoothness_score": 8.166666666666666
+    }
+  },
+  "folk_g_major": {
+    "range_violations": {
+      "T1": 0,
+      "T2": 0,
+      "Bari": 0,
+      "Bass": 0,
+      "total": 0
+    },
+    "voice_crossing": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_fifths": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_octaves": {
+      "count": 0,
+      "locations": []
+    },
+    "consonance_analysis": {
+      "consonance_rate": 0.9761904761904762,
+      "consonant_intervals": 82,
+      "total_intervals": 84,
+      "interval_distribution": {
+        "0": 20,
+        "5": 11,
+        "7": 10,
+        "8": 9,
+        "3": 10,
+        "4": 9,
+        "9": 13,
+        "6": 1,
+        "10": 1
+      }
+    },
+    "voice_leading_smoothness": {
+      "avg_motion": 1.5576923076923077,
+      "avg_score": 8.442307692307692,
+      "total_leaps": 5,
+      "leap_rate": 0.09615384615384616
+    },
+    "chord_completeness": {
+      "completeness_rate": 0.7142857142857143,
+      "complete_chords": 10,
+      "total_chords": 14
+    },
+    "summary": {
+      "total_notes": 14,
+      "range_violation_rate": 0.0,
+      "voice_crossing_rate": 0.0,
+      "parallel_fifth_rate": 0.0,
+      "parallel_octave_rate": 0.0,
+      "consonance_rate": 0.9761904761904762,
+      "avg_smoothness_score": 8.442307692307692
+    }
+  },
+  "hymn_f_major": {
+    "range_violations": {
+      "T1": 0,
+      "T2": 0,
+      "Bari": 0,
+      "Bass": 0,
+      "total": 0
+    },
+    "voice_crossing": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_fifths": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_octaves": {
+      "count": 0,
+      "locations": []
+    },
+    "consonance_analysis": {
+      "consonance_rate": 0.9479166666666666,
+      "consonant_intervals": 91,
+      "total_intervals": 96,
+      "interval_distribution": {
+        "8": 18,
+        "3": 16,
+        "7": 19,
+        "0": 22,
+        "5": 15,
+        "10": 3,
+        "1": 1,
+        "11": 1,
+        "4": 1
+      }
+    },
+    "voice_leading_smoothness": {
+      "avg_motion": 1.6333333333333333,
+      "avg_score": 8.366666666666667,
+      "total_leaps": 3,
+      "leap_rate": 0.05
+    },
+    "chord_completeness": {
+      "completeness_rate": 0.6875,
+      "complete_chords": 11,
+      "total_chords": 16
+    },
+    "summary": {
+      "total_notes": 16,
+      "range_violation_rate": 0.0,
+      "voice_crossing_rate": 0.0,
+      "parallel_fifth_rate": 0.0,
+      "parallel_octave_rate": 0.0,
+      "consonance_rate": 0.9479166666666666,
+      "avg_smoothness_score": 8.366666666666667
+    }
+  },
+  "scale_c_major": {
+    "range_violations": {
+      "T1": 0,
+      "T2": 0,
+      "Bari": 0,
+      "Bass": 0,
+      "total": 0
+    },
+    "voice_crossing": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_fifths": {
+      "count": 0,
+      "locations": []
+    },
+    "parallel_octaves": {
+      "count": 0,
+      "locations": []
+    },
+    "consonance_analysis": {
+      "consonance_rate": 0.9166666666666666,
+      "consonant_intervals": 88,
+      "total_intervals": 96,
+      "interval_distribution": {
+        "3": 13,
+        "8": 20,
+        "5": 5,
+        "0": 29,
+        "7": 20,
+        "9": 1,
+        "10": 5,
+        "1": 2,
+        "6": 1
+      }
+    },
+    "voice_leading_smoothness": {
+      "avg_motion": 1.1333333333333333,
+      "avg_score": 8.866666666666667,
+      "total_leaps": 4,
+      "leap_rate": 0.06666666666666667
+    },
+    "chord_completeness": {
+      "completeness_rate": 0.625,
+      "complete_chords": 10,
+      "total_chords": 16
+    },
+    "summary": {
+      "total_notes": 16,
+      "range_violation_rate": 0.0,
+      "voice_crossing_rate": 0.0,
+      "parallel_fifth_rate": 0.0,
+      "parallel_octave_rate": 0.0,
+      "consonance_rate": 0.9166666666666666,
+      "avg_smoothness_score": 8.866666666666667
+    }
+  }
+}
